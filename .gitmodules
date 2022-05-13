@@ -1,4 +1,4 @@
 [submodule "bee2"]
 	path = bee2
 	url = https://github.com/dashakuh22/bee2.git
-	branch = base_belt_fmt
+    branch = base_belt_fmt
